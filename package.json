@@ -1,0 +1,14 @@
+{
+  "name": "archive",
+  "version": "1.0.0",
+  "description": "arhive html",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alan",
+  "license": "0",
+  "dependencies": {
+    "request": "^2.67.0"
+  }
+}
